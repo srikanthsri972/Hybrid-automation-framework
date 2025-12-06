@@ -1,0 +1,21 @@
+# installed packages or plugins
+pytest
+selenium
+Webdriver-manager
+pytest-html
+pytest-xdist
+openpyxl
+allure-pytest
+undetected-chromedriver
+setuptools
+selenium-stealth
+git
+
+
+
+
+
+
+
+
+
