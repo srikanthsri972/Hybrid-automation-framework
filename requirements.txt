@@ -9,7 +9,7 @@ allure-pytest
 undetected-chromedriver
 setuptools
 selenium-stealth
-git
+
 
 
 
