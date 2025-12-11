@@ -1,6 +1,6 @@
 
 
-print("hello world kasjhdkajsd")
+print("hello world")
 
 
 
